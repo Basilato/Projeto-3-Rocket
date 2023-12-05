@@ -1,20 +1,36 @@
 {
-    "transactions": [
-        {
-            "id": 1,
-            "description": "Desenvolvimento de site",
-            "type": "income",
-            "category": "Venda",
-            "price": 14000,
-            "createdAt": "2023-07-29T19:36:44.505Z"
-        },
-        {
-            "id": 2,
-            "description": "Hamburguer",
-            "type": "outcome",
-            "category": "Alimentacao",
-            "price": 50,
-            "createdAt": "2023-07-29T18:36:44.505Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-07-29T19:36:44.505Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentacao",
+      "price": 50,
+      "createdAt": "2023-07-29T18:36:44.505Z"
+    },
+    {
+      "description": "App",
+      "price": 1000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-12-05T18:02:25.992Z",
+      "id": 3
+    },
+    {
+      "description": "Lanche",
+      "price": 15,
+      "category": "Alimentacao",
+      "type": "outcome",
+      "createdAt": "2023-12-05T18:18:14.174Z",
+      "id": 4
+    }
+  ]
 }
